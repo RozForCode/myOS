@@ -3,6 +3,9 @@
 ## Overview
 Welcome to myOS! This project is an educational and ambitious journey into the world of operating system development. Built using C++ and Assembly, myOS is designed to explore and understand the core principles of operating systems, including:
 
+
+
+<img align="right"  width="400" height="400" src="(https://github.com/user-attachments/assets/e45d29d8-eb05-47ac-b5ba-db582d894f91" frameBorder="0" >
 Bootloading
 Kernel Development
 Memory Management
