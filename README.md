@@ -5,7 +5,7 @@ Welcome to myOS! This project is an educational and ambitious journey into the w
 
 
 
-<img align="right"  width="400" height="400" src="(https://github.com/user-attachments/assets/e45d29d8-eb05-47ac-b5ba-db582d894f91" frameBorder="0" >
+<img align="right"  width="400" height="400" src="https://github.com/user-attachments/assets/e45d29d8-eb05-47ac-b5ba-db582d894f91" frameBorder="0" >
 Bootloading
 Kernel Development
 Memory Management
